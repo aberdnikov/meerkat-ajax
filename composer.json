@@ -6,11 +6,11 @@
 	"license": "MIT",
 	"keywords": ["kohana", "module", "meerkat", "ajax"],
 	"authors": [
-				{
-					"name": "Alexey Berdnikov",
-					"email": "aberdnikov@gmail.com",
-					"homepage": "https://github.com/aberdnikov",
-					"role": "Module maintainer"
+			{
+				"name": "Alexey Berdnikov",
+				"email": "aberdnikov@gmail.com",
+				"homepage": "https://github.com/aberdnikov",
+				"role": "Developer"
 			}
 	],
 	"require": {
