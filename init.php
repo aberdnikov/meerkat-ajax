@@ -1,5 +1,5 @@
 <?php
-    Route::set('ajax', '!/ajax/<controller>(/<action>)')
+    Route::set('ajax', trim(Kohana::$config->load('meerkat/ajax.url'), '/')'/<controller>(/<action>)')
         ->defaults(
             array(
                 'directory' => 'Ajax',
