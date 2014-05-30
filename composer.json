@@ -1,0 +1,20 @@
+{
+	"name": "meerkat/meerkat-ajax",
+	"type": "kohana-module",
+	"description": "Ajax module for MeerkatCMF (on Kohana 3.3)",
+	"homepage": "http://github.com/meerkat/meerkat-ajax",
+	"license": "MIT",
+	"keywords": ["kohana", "module", "meerkat", "ajax"],
+	"authors": [
+				{
+					"name": "Alexey Berdnikov",
+					"email": "aberdnikov@gmail.com",
+					"homepage": "https://github.com/aberdnikov",
+					"role": "Module maintainer"
+			}
+	],
+	"require": {
+			"php": ">=5.3",
+			"composer/installers": "*"
+	} 	
+}
